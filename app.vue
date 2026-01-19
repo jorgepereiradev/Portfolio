@@ -2,6 +2,8 @@
   <div>
     <Header />
     <AboutCard />
+    <Skills />
+    <Projects />
   </div>
 </template>
 
